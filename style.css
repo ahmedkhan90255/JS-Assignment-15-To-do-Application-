@@ -20,8 +20,8 @@ body {
 /* Main Container  */
 
 .container {
-    max-width: 500px;
-    min-width: 370px;
+    max-width: 450px;
+    min-width: 350px;
     margin: 100px auto;
     background-color: #2880a8;
     padding: 30px 25px;
@@ -88,7 +88,7 @@ body {
     font-size: 18px;
     padding: 5px 10px;
     border-radius: 5px;
-    background-color: #008a8a;
+    background-color: #c0ca38;
     border: 2px solid #008a8a;
     color: #fff;
     font-family: var(--font2);
@@ -144,7 +144,7 @@ body {
     font-size: 20px;
     font-family: var(--font);
     margin: 0;
-    color: #008a8a;
+    color: #bebebe;
 }
 
 #task-output-container>#editTaskInput {
